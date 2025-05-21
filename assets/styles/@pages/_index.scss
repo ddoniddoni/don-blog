@@ -1,1 +1,2 @@
-@import "./lobby.scss";
+@use "./lobby.scss" as *;
+@use "./home" as *;
